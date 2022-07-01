@@ -6,8 +6,6 @@ fun main(args: Array<String>) {
     lastParameterCallSyntax()
 }
 
-
-
 fun lambdasAndHigherOrderFunctions() {
     val text = """    
              |  ใน Kotlin Function ถือเป็น firstClass
